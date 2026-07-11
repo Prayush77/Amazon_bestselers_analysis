@@ -15,8 +15,8 @@ while going through the data set i found out that a single $105 academic textboo
 ### 1. Clone the Repository
 Run the following commands in your terminal to copy the project to your local machine:
 ```bash
-git clone https://github.com/Prayush77/Amazon_bestselers_analysis.git
-cd Amazon_bestselers_analysis
+git clone https://github.com/Prayush77/Amazon_bestsellers_analysis.git
+cd Amazon_bestsellers_analysis
 ```
 
 
